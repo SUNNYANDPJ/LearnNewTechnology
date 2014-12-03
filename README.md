@@ -1,9 +1,9 @@
 #LearnNewTechnology
-`
+
 * learn
 * communicate
 * promote
-`
+
 ###some technology i tried here
 
 >Lua
@@ -16,3 +16,4 @@
 
 >markdown
 
+>nodejs
