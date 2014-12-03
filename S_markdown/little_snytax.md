@@ -6,7 +6,7 @@ nodejs基础学习
 
 ***
 链接
-[github markdown test](https://github.com/SUNNYANDPJ/NodeJs/edit/master/README.md)
+[github markdown test](http://user.qzone.qq.com/1183679527/infocenter?ptsig=N6cyviGGfWvPpCf8Gk5-jInxsiUg8KH8SFIL8UBEG9Y_)
 
 ***
 C code demo
@@ -65,7 +65,7 @@ int main()
     }
 ### 链接
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />
-2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />
+2.[点击这里我你可以链接到我的博客](http://sunnyandpj.blog.163.com/manage/#m=0&t=0)<br />
 
 ###只是显示图片
 ![github](http://github.com/unicorn.png "github")
