@@ -1,8 +1,8 @@
 #LearnNewTechnology
 `
-*learn
-*communicate
-*promote
+* learn
+* communicate
+* promote
 `
 ###some technology i tried here
 
@@ -13,4 +13,6 @@
 >cocos2dx
 
 >ubuntu/linux
+
+>markdown
 
